@@ -26,7 +26,7 @@ $ terraform validate
 $ terraform plan -out terra-app.tfplan
 $ terraform apply terra-app.tfplan
 ```
-### Warning U+26A0
+### Warning 
 Don't Forget to Destroy all Infrastructure
 ```
 $ terraform destroy -auto-approve
